@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React-Native
+          Learn React with Linus
         </a>
       </header>
     </div>
