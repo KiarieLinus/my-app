@@ -43,6 +43,9 @@ nav>img {
 main {
   padding: 57px 27px;
   color: white;
+  background-image: url(./images/logo-background.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
 }
 
 .main--title {
